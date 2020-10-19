@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms cheat sheet
 Important algorithms for coding interviews
 
 **1. Sorting**
