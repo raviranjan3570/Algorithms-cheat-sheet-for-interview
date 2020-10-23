@@ -7,4 +7,4 @@ Important algorithms for coding interviews
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-quicksort-java">Quick Sort TC = (Best Case = O(nlogn)), (Worst Case = O(n^2)) | SC = (Best Case = O(logn)), (Worst Case = O(n))</a>
 
 **2. Heaps**
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-buildingmaxheap-java">BuildingMaxHeap TC = O(nlogn) | SC = O(nlogn)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-buildingmaxheap-java">BuildingMaxHeap TC = O(n) | SC = O(logn)</a>
