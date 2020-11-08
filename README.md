@@ -10,3 +10,6 @@ Important algorithms for coding interviews
 
 **2. Heaps**
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-buildingmaxheap-java">BuildingMaxHeap TC = O(n) | SC = O(logn)</a>
+
+**3. Searching**
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-linearsearch-java">Linear Search TC = O(n) | SC = O(1)</a>
