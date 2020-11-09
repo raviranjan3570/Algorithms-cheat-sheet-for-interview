@@ -17,3 +17,4 @@ Important algorithms for coding interviews [Java]
 
 **4. Greedy Algorithms**
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-fractionalknapsack-java">Fractional Knapsack TC = O(nlogn) | SC = O(n)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-huffmanencoding-java">Huffman Encoding TC = O(nlogn) | SC = O(n)</a>
