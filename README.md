@@ -25,4 +25,4 @@ Important algorithms for coding interviews [Java]
 **5. Dynamic Programming**
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplication-java">MatrixChainMultiplication [BU] TC = O(n^3) | SC = O(n^2)</a>
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplicationtd-java">MatrixChainMultiplication [TD] TC = O(n^3) | SC = O(n^2)</a>
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-longestcommonsubsequence-java">LongestCommonSubsequence [TD] TC = O(mn) | SC = O(mn)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-longestcommonsubsequence-java">LongestCommonSubsequence TC = O(mn) | SC = O(mn)</a>
