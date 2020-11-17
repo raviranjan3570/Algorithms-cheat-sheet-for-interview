@@ -28,3 +28,4 @@ Important algorithms for coding interviews [Java]
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-longestcommonsubsequence-java">Longest Common Subsequence TC = O(mn) | SC = O(mn)</a>
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-multistagegraph-java">Multistage Graph TC = O(E) | SC = O(V)</a>
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-knapsack-java">0-1 Knapsack TC = O(nw) | SC = O(nw)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-subsetsum-java">Subset Sum TC = O(nw) | SC = O(nw)</a>
