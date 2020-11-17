@@ -9,7 +9,7 @@ Important algorithms for coding interviews [Java]
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-bubblesort-java">Bubble Sort TC = O(n^2) | SC = O(1)</a>
 
 **2. Heaps**
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-buildingmaxheap-java">BuildingMaxHeap TC = O(n) | SC = O(logn)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-buildingmaxheap-java">Building Max Heap TC = O(n) | SC = O(logn)</a>
 
 **3. Searching**
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-linearsearch-java">Linear Search TC = O(n) | SC = O(1)</a>
@@ -23,6 +23,7 @@ Important algorithms for coding interviews [Java]
 * <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-dijsktraalgorithm-java">Dijsktra Algorithm[Adjacency Matrix] TC = O(v^2) | SC = O(v)</a>
 
 **5. Dynamic Programming**
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplication-java">MatrixChainMultiplication [BU] TC = O(n^3) | SC = O(n^2)</a>
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplicationtd-java">MatrixChainMultiplication [TD] TC = O(n^3) | SC = O(n^2)</a>
-* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-longestcommonsubsequence-java">LongestCommonSubsequence TC = O(mn) | SC = O(mn)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplication-java">Matrix Chain Multiplication [BU] TC = O(n^3) | SC = O(n^2)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-matrixchainmultiplicationtd-java">Matrix Chain Multiplication [TD] TC = O(n^3) | SC = O(n^2)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-longestcommonsubsequence-java">Longest Common Subsequence TC = O(mn) | SC = O(mn)</a>
+* <a target="_blank" href="https://gist.github.com/raviranjan3570/8846614513ff40b6e9bbe74b06cfc5c9#file-multistagegraph-java">Multistage Graph TC = O(E) | SC = O(V)</a>
